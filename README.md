@@ -16,7 +16,7 @@ Vide tutoriais do PI.
 
 ## Integrantes: 
 
-<a href="" class="no-underline">Henri Seixas</a>, <a href="" class="no-underline">Raphael Novaes</a> e <a href="" class="no-underline">Matheus Fernandes</a>.
+<a href="" class="no-underline">Henri Seixas</a>, <a href="" class="no-underline">Raphael Novais</a> e <a href="" class="no-underline">Matheus Fernandes</a>.
 
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
