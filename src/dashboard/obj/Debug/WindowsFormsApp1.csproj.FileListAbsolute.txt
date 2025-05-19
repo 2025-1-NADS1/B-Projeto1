@@ -1,0 +1,89 @@
+C:\Users\Matheus\Desktop\PI\Dashboard\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Matheus\Desktop\PI\Dashboard\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Matheus\Desktop\PI\Dashboard\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Matheus\Desktop\PI\Dashboard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\PI\Dashboard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_Dashboard.resources
+C:\Users\Matheus\Desktop\PI\Dashboard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Matheus\Desktop\PI\Dashboard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\PI\Dashboard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Matheus\Desktop\PI\Dashboard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Matheus\Desktop\PI\Dashboard\WindowsFormsApp1\bin\Debug\CircularProgressBar.dll
+C:\Users\Matheus\Desktop\PI\Dashboard\WindowsFormsApp1\bin\Debug\WinFormAnimation.dll
+C:\Users\Matheus\Desktop\PI\Dashboard\WindowsFormsApp1\bin\Debug\CircularProgressBar.xml
+C:\Users\Matheus\Desktop\PI\Dashboard\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\25027353\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\25027353\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\25027353\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\25027353\Desktop\WindowsFormsApp1\bin\Debug\CircularProgressBar.dll
+C:\Users\25027353\Desktop\WindowsFormsApp1\bin\Debug\WinFormAnimation.dll
+C:\Users\25027353\Desktop\WindowsFormsApp1\bin\Debug\CircularProgressBar.xml
+C:\Users\25027353\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\25027353\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_Dashboard.resources
+C:\Users\25027353\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\25027353\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\25027353\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\25027353\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\25027353\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\25027353\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_Analise.resources
+C:\Users\25027353\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_Calendario.resources
+C:\Users\25027353\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lbl_ConfiguracoesUsuario.resources
+C:\Users\25027353\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_Dashboard1.resources
+C:\Users\25027353\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_Gastos.resources
+C:\Users\Matheus\Downloads\DashboardCommit1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Matheus\Downloads\DashboardCommit1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Matheus\Downloads\DashboardCommit1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Matheus\Downloads\DashboardCommit1\WindowsFormsApp1\bin\Debug\CircularProgressBar.dll
+C:\Users\Matheus\Downloads\DashboardCommit1\WindowsFormsApp1\bin\Debug\WinFormAnimation.dll
+C:\Users\Matheus\Downloads\DashboardCommit1\WindowsFormsApp1\bin\Debug\CircularProgressBar.xml
+C:\Users\Matheus\Downloads\DashboardCommit1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Matheus\Downloads\DashboardCommit1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_Analise.resources
+C:\Users\Matheus\Downloads\DashboardCommit1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_Calendario.resources
+C:\Users\Matheus\Downloads\DashboardCommit1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_Dashboard.resources
+C:\Users\Matheus\Downloads\DashboardCommit1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_Dashboard1.resources
+C:\Users\Matheus\Downloads\DashboardCommit1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_Gastos.resources
+C:\Users\Matheus\Downloads\DashboardCommit1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Matheus\Downloads\DashboardCommit1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Downloads\DashboardCommit1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\Matheus\Downloads\DashboardCommit1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Matheus\Downloads\DashboardCommit1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Matheus\Downloads\DashboardCommit1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_Configuracoes.resources
+C:\Users\Matheus\Downloads\Dashboard - Ajustado troca de Telas\Dashboard - Ajustado troca de Telas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Matheus\Downloads\Dashboard - Ajustado troca de Telas\Dashboard - Ajustado troca de Telas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_Sala.resources
+C:\Users\Matheus\Downloads\Dashboard - Ajustado troca de Telas\Dashboard - Ajustado troca de Telas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_Quartos.resources
+C:\Users\Matheus\Downloads\Dashboard - Ajustado troca de Telas\Dashboard - Ajustado troca de Telas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_Piscina.resources
+C:\Users\Matheus\Downloads\Dashboard - Ajustado troca de Telas\Dashboard - Ajustado troca de Telas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_Dashboard.resources
+C:\Users\Matheus\Downloads\Dashboard - Ajustado troca de Telas\Dashboard - Ajustado troca de Telas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_DashboardTotal.resources
+C:\Users\Matheus\Downloads\Dashboard - Ajustado troca de Telas\Dashboard - Ajustado troca de Telas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Matheus\Downloads\Dashboard - Ajustado troca de Telas\Dashboard - Ajustado troca de Telas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Downloads\Dashboard - Ajustado troca de Telas\Dashboard - Ajustado troca de Telas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Matheus\Downloads\Dashboard - Ajustado troca de Telas\Dashboard - Ajustado troca de Telas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Matheus\Downloads\Dashboard - Ajustado troca de Telas\Dashboard - Ajustado troca de Telas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Matheus\Downloads\Dashboard - Ajustado troca de Telas\Dashboard - Ajustado troca de Telas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Matheus\Downloads\Dashboard - Ajustado troca de Telas\Dashboard - Ajustado troca de Telas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Matheus\Downloads\Dashboard - Ajustado troca de Telas\Dashboard - Ajustado troca de Telas\WindowsFormsApp1\bin\Debug\CircularProgressBar.dll
+C:\Users\Matheus\Downloads\Dashboard - Ajustado troca de Telas\Dashboard - Ajustado troca de Telas\WindowsFormsApp1\bin\Debug\WinFormAnimation.dll
+C:\Users\Matheus\Downloads\Dashboard - Ajustado troca de Telas\Dashboard - Ajustado troca de Telas\WindowsFormsApp1\bin\Debug\CircularProgressBar.xml
+C:\Users\Matheus\Downloads\Dashboard - Ajustado troca de Telas\Dashboard - Ajustado troca de Telas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_Cozinha.resources
+C:\Users\Matheus\Downloads\Dashboard - Ajustado troca de Telas\Dashboard - Ajustado troca de Telas\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\Matheus\Downloads\Dashboard - Ajustado troca de Telas\Dashboard - Ajustado troca de Telas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Matheus\Downloads\Dashboard - Ajustado troca de Telas\Dashboard - Ajustado troca de Telas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_Ranking.resources
+C:\Users\henri\OneDrive\Desktop\DASHBOARD\Dashboard - Ajustado troca de Telas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\henri\OneDrive\Desktop\DASHBOARD\Dashboard - Ajustado troca de Telas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\henri\OneDrive\Desktop\DASHBOARD\Dashboard - Ajustado troca de Telas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\henri\OneDrive\Desktop\DASHBOARD\Dashboard - Ajustado troca de Telas\WindowsFormsApp1\bin\Debug\CircularProgressBar.dll
+C:\Users\henri\OneDrive\Desktop\DASHBOARD\Dashboard - Ajustado troca de Telas\WindowsFormsApp1\bin\Debug\WinFormAnimation.dll
+C:\Users\henri\OneDrive\Desktop\DASHBOARD\Dashboard - Ajustado troca de Telas\WindowsFormsApp1\bin\Debug\CircularProgressBar.xml
+C:\Users\henri\OneDrive\Desktop\DASHBOARD\Dashboard - Ajustado troca de Telas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\henri\OneDrive\Desktop\DASHBOARD\Dashboard - Ajustado troca de Telas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_Cozinha.resources
+C:\Users\henri\OneDrive\Desktop\DASHBOARD\Dashboard - Ajustado troca de Telas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_Ranking.resources
+C:\Users\henri\OneDrive\Desktop\DASHBOARD\Dashboard - Ajustado troca de Telas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_Sala.resources
+C:\Users\henri\OneDrive\Desktop\DASHBOARD\Dashboard - Ajustado troca de Telas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_Quartos.resources
+C:\Users\henri\OneDrive\Desktop\DASHBOARD\Dashboard - Ajustado troca de Telas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_Piscina.resources
+C:\Users\henri\OneDrive\Desktop\DASHBOARD\Dashboard - Ajustado troca de Telas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_Dashboard.resources
+C:\Users\henri\OneDrive\Desktop\DASHBOARD\Dashboard - Ajustado troca de Telas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_DashboardTotal.resources
+C:\Users\henri\OneDrive\Desktop\DASHBOARD\Dashboard - Ajustado troca de Telas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\henri\OneDrive\Desktop\DASHBOARD\Dashboard - Ajustado troca de Telas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\henri\OneDrive\Desktop\DASHBOARD\Dashboard - Ajustado troca de Telas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\henri\OneDrive\Desktop\DASHBOARD\Dashboard - Ajustado troca de Telas\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\henri\OneDrive\Desktop\DASHBOARD\Dashboard - Ajustado troca de Telas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\henri\OneDrive\Desktop\DASHBOARD\Dashboard - Ajustado troca de Telas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
