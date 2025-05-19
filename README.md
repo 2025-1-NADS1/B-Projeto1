@@ -19,7 +19,7 @@
 
 <p align="center">
 <img src=""C:\Users\Matheus\Downloads\Imagem_Dashboard.png"" alt="Dashboard" border="0">
-  Dashboard by <a href="http://www.nyphotographic.com/">Henri Seixas, Raphael Novais, Matheus Fernandes</a> <a rel="license" href="[https://creativecommons.org/licenses/by-sa/3.0/](https://creativecommons.org/licenses/by/4.0/)">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
+  Dashboard by <a href=""C:\Users\Matheus\Downloads\Imagem_Dashboard.png"">Henri Seixas, Raphael Novais, Matheus Fernandes</a> <a rel="license" href="[https://creativecommons.org/licenses/by-sa/3.0/](https://creativecommons.org/licenses/by/4.0/)">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
 </p>
 
 
