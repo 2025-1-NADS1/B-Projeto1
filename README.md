@@ -18,7 +18,7 @@
 ## Descrição
 
 <p align="center">
-<img src="![Imagem_Dashboard](https://github.com/user-attachments/assets/1432e229-17c2-4490-94b8-bd7c68d751d0)" alt="Dashboard" border="0">
+<img src="https://prnt.sc/tyaF0Dui8wUv" alt="Dashboard" border="0">
   
 </p>
 
