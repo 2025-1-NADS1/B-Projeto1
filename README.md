@@ -13,21 +13,21 @@
 <a href="" class="no-underline">Henri Seixas</a>, <a href="" class="no-underline">Raphael Novais</a> e <a href="" class="no-underline">Matheus Fernandes</a>.
 
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Ronaldo Araujo Pinto</a>, <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>, <a href="https://www.linkedin.com/in/victorbarq/">Rodrigo da Rosa</a>, <a href="https://www.linkedin.com/in/victorbarq/">Renata Muniz Do Nascimento</a>, <a href="https://www.linkedin.com/in/victorbarq/">Lucy Mari Tabuti</a>
 
 ## Descrição
 
 <p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
+<img src=""C:\Users\Matheus\Downloads\Imagem_Dashboard.png"" alt="Dashboard" border="0">
+  Dashboard by <a href="http://www.nyphotographic.com/">Henri Seixas, Raphael Novais, Matheus Fernandes</a> <a rel="license" href="[https://creativecommons.org/licenses/by-sa/3.0/](https://creativecommons.org/licenses/by/4.0/)">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
 </p>
 
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
+Você sabia que até 40% da energia em casa pode ser desperdiçada sem que o usuário perceba?
 <br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
+Transformamos o consumo de energia em uma experiência interativa e gamificada.
 <br><br>
-May the force be with you!
+Com o dashboard, você pode visualizar o consumo total de energia da sua casa, tanto de forma geral quanto por cômodos individualmente. Além disso, ele exibe um ranking de consumo por região, destacando os três cômodos com menor consumo, que permanecem no ranking por até um mês
 <br><br>
 
 ## 🛠 Estrutura de pastas
@@ -84,11 +84,10 @@ Encontre o index.html na pasta executáveis e execute-o como uma página WEB (at
 
 ## 💻 Configuração para Desenvolvimento
 
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
+Para abrir o dashboard é necessário baixar a documento no github, após isso abra a pasta "WindowsFormsApp1" e execute o "WindowsFormsApp1.sln.
+Para abrir o dashboard você necessita das seguintes ferramentas:
 
-Para abrir este projeto você necessita das seguintes ferramentas:
-
--<a href="https://godotengine.org/download">GODOT</a>
+-<a href="[https://godotengine.org/download](https://github.com/2025-1-NADS1/B-Projeto1?tab=readme-ov-file)">GODOT</a>
 
 ```sh
 make install
@@ -97,15 +96,15 @@ Coloque código do prompt de comnando se for necessário
 ```
 
 ## 📋 Licença/License
-Utilize o link <https://chooser-beta.creativecommons.org/> para fazer uma licença CC BY 4.0.
+https://creativecommons.org/licenses/by/4.0/
 
 ## 🎓 Referências
 
 Aqui estão as referências usadas no projeto.
 
-1. <https://github.com/iuricode/readme-template>
-2. <https://github.com/gabrieldejesus/readme-model>
-3. <https://chooser-beta.creativecommons.org/>
+1. <[https://github.com/iuricode/readme-template](https://www.youtube.com/watch?v=qHyrJDd4sd8&t=6s)>
+2. <[(https://www.youtube.com/watch?v=ImtUHppyt1E&t=100s)](https://www.youtube.com/watch?v=ImtUHppyt1E&t=2s)>
+3. <[https://chooser-beta.creativecommons.org/](https://www.youtube.com/watch?v=jNoIGZpBc1Y)>
 4. <https://freesound.org/>
 5. <https://www.toptal.com/developers/gitignore>
 6. Músicas por: <a href="https://freesound.org/people/DaveJf/sounds/616544/"> DaveJf </a> e <a href="https://freesound.org/people/DRFX/sounds/338986/"> DRFX </a> ambas com Licença CC 0.
